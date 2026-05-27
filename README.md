@@ -1,5 +1,10 @@
 # Web3 Wingman
 
+> Built at ETHGlobal Brussels 2024
+
+![ERC-7579](https://img.shields.io/badge/ERC--7579-Module-blue)
+![Safe](https://img.shields.io/badge/Safe-Wallet-green)
+
 Web3 Wingman is the ultimate safeguard and digital insurance for critical
 situations. Users can designate funds from their wallet, choose a receiver, and
 set a future transfer date. If unforeseen circumstances arise, Web3 Wingman
@@ -24,3 +29,5 @@ Web3 Wingman consists of three main parts:
   through a simple and intuitive interface.
 - `backend`: Responsible for executing transfers for backups when their
   scheduled time arrives.
+
+Built by [INC4](https://inc4.net) — House of Tech for AI & Web3
